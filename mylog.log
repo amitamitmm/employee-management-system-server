@@ -1,0 +1,13 @@
+2019-04-19 17:18:45.473  INFO 14008 --- [main] com.aptota.Application                   : Starting Application on IN-00207986 with PID 14008 (C:\CHOUDHARY\Workspace\employee-management-system\target\classes started by echdmtx in C:\CHOUDHARY\Workspace\employee-management-system)
+2019-04-19 17:18:45.480  INFO 14008 --- [main] com.aptota.Application                   : No active profile set, falling back to default profiles: default
+2019-04-19 17:18:46.219 ERROR 14008 --- [main] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-04-19 17:18:46.564 ERROR 14008 --- [main] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-04-19 17:18:46.710  INFO 14008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8089 (http)
+2019-04-19 17:18:46.724 ERROR 14008 --- [main] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.12] of the APR based Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2019-04-19 17:18:46.732  INFO 14008 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 17:18:46.733  INFO 14008 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 17:18:46.868  INFO 14008 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 17:18:46.868  INFO 14008 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1315 ms
+2019-04-19 17:18:47.049  INFO 14008 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 17:18:47.268  INFO 14008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8089 (http) with context path ''
+2019-04-19 17:18:47.271  INFO 14008 --- [main] com.aptota.Application                   : Started Application in 2.136 seconds (JVM running for 2.704)
